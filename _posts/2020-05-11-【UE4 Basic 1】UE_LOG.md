@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  【UE4 Basic 1】UE_LOG
-date:   2014-12-30 09:00:13
+date:   2020-05-12 10:18:13
 categories: basic
+permalink: /archivers/hello
 ---
 
-# 【UE4 Basic 1】UE_LOG
 ### LogVerbosity.h
 ```
 /**
