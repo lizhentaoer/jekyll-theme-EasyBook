@@ -2,8 +2,7 @@
 layout: post
 title:  【UE4 Basic 1】UE_LOG
 date:   2014-12-30 09:00:13
-categories: jekyll update
-permalink: /archivers/hello
+categories: basic
 ---
 
 # 【UE4 Basic 1】UE_LOG
